@@ -1,0 +1,31 @@
+body{
+    display: flex;
+    justify-content: center;
+    margin-top: 40%;
+}
+div{
+    background-color: black;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+    color: aliceblue;
+}
+button{
+    width: 80px;
+    border-radius: 5px;
+}
+
+.bg-green{
+    cursor: pointer;
+    background-color: green;
+}
+.bg-yellow{
+    cursor: pointer;
+    background-color: yellow;
+}
+.bg-red{
+    cursor: pointer;
+    background-color: #ff0000;
+}
